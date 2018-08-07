@@ -11,7 +11,7 @@ const path = require('path');
 //const generalUtility = require('./generalUtility');
 const constants = require('./constants');
 
-const MESSAGE = `Welcome to the peachy ${chalk.red('generator-anxsaiyuki')} generator!`;
+const MESSAGE = `Welcome to the simple ${chalk.red('react-app-generator')}!`;
 
 module.exports = class extends Generator {
   prompting() {

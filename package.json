@@ -1,11 +1,11 @@
 {
-  "name": "generator-anxsaiyuki",
-  "version": "1.4.1",
-  "description": "Create files",
+  "name": "react-app-generator",
+  "version": "1.0.0",
+  "description": "Create basic react app",
   "homepage": "",
   "author": {
-    "name": "anxsaiyuki",
-    "email": "anxsaiyuki@gmail.com",
+    "name": "l0aded",
+    "email": "oliverhanw@gmail.com",
     "url": ""
   },
   "files": [
@@ -16,6 +16,7 @@
     "react",
     "anxsaiyuki",
     "yeoman-generator"
+    "l0aded"
   ],
   "devDependencies": {
     "yeoman-test": "^1.7.0",
@@ -44,6 +45,6 @@
   "scripts": {
     "test": "jest"
   },
-  "repository": "anxsaiyuki/react-project-generator",
+  "repository": "l0aded/react-app-generator",
   "license": "MIT"
 }
